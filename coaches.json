@@ -25,7 +25,19 @@
         {
              "id" :2,
              "name":"hassan",
-             "photo" : "/photoddds"
+             "photo" : "/photoddds",
+             "cources" : 
+            [
+                {
+                    "id":1,
+                    "name" : "volyball"
+                },
+
+                {
+                    "id":2,
+                    "name" : "tenes"
+                }
+            ]
         }
        
     ]
